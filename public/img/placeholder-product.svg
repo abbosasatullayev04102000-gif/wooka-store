@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#F7F6FB"/>
+  <g fill="none" stroke="#C2A6FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 160h160v120H120z"/>
+    <path d="M120 160 200 110l80 50"/>
+  </g>
+  <circle cx="200" cy="215" r="26" fill="#EDE4FF"/>
+  <text x="200" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#9B98AC">WOOKA</text>
+</svg>
